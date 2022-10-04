@@ -1,0 +1,18 @@
+1. This assessment took longer than expected at around 10 hours.
+
+2. I've used Youtube, Lectures, Peters Code.
+
+3. Me, William, David, Neil, and Mark all jumped in a call to help each other out when we needed help.
+
+4. Didn't have help sessions available at the time of this QAP.
+
+5. I think this QAP was more difficult then expected, i think i would be able to do it again with reference to this code. With some more personal practice time i will be able to no issue. 
+
+How to get Start server:
+1. cd js
+2. Node server.js
+3. Enjoy
+
+
+Github:
+https://github.com/SoftDevPinto/QAP2
